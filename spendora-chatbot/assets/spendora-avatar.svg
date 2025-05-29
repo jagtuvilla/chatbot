@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="100" cy="100" r="100" fill="#187C19"/>
+    
+    <!-- Dollar Sign -->
+    <text x="100" y="140" 
+          font-family="Arial, sans-serif" 
+          font-size="120" 
+          font-weight="bold" 
+          fill="white" 
+          text-anchor="middle">
+        $
+    </text>
+    
+    <!-- Sparkles -->
+    <circle cx="60" cy="70" r="8" fill="white" opacity="0.8"/>
+    <circle cx="140" cy="70" r="8" fill="white" opacity="0.8"/>
+    <circle cx="100" cy="40" r="8" fill="white" opacity="0.8"/>
+</svg> 
